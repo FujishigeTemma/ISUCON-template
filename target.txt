@@ -1,4 +1,6 @@
 /etc/mysql/mysql.conf.d/mysqld.cnf
 /etc/nginx/nginx.conf
-/etc/nginx/sites-available/isuconquest.conf
-/etc/systemd/system/isuconquest.service
+/etc/nginx/sites-available/isucon.conf
+/etc/systemd/system/isucon.service
+/lib/systemd/system/nginx.service
+/lib/systemd/system/mysql.service
